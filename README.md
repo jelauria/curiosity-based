@@ -8,12 +8,13 @@ To download the application, all you need to do is to download the ZIP of the re
 
 ## Materials Needed For the Application
 To use the application, you will need the following:
-1. The **Raw Data** from Microsoft Forms in an excel sheet (.xlsx). The sheet the raw data is on should be titled "RawData"
-2. The **Answer Sheet** in an excel sheet (.xlsx). The sheet that the Answer Sheet is on should be titled "AnswerSheet"
-
-_Note: The raw data and the answer sheet can be on the same .xlsx if you would like. Just ensure that the individual sheets are titled appropriately_ 
-
-3. A **destination folder** for the output. This is where your files will be located once the application is finished running -- just use your file manager of choice (e.g. Finder, File Explorer) to make the folder in your desired location.
+1. The **Raw Data** from Microsoft Forms in the form of a .csv file.
+2. The **Answer Sheet** in an excel sheet (.xlsx).
+3. The **Preface PDF** -- this is the custom PDF of the pages you have designed to go in front of the user's final results.
+4. The **Endpage PDF** -- this is the custom PDF of the pages you have designed to go after the user's final result (generally, a glossary of definitions).
+5. The **Build Folder** -- this is a folder that can be deleted shortly after the final results have been generated; it will be used to store the intermediate images and pages used to form the final results. The folder should be empty at the time you run the application.
+6. The **Source Folder** -- this is a folder that stores reusable intermediate files used to generate the results. This folder comes with downloading the application from GitHub, and is labeled `source`. You're free to move this fold wherever you would like on your computer.
+7. A **Destination Folder** for the output. This is where your files will be located once the application is finished running -- just use your file manager of choice (e.g. Finder, File Explorer) to make the folder in your desired location.
 
 ## Running the Application
 This is where we generate the results from the provided materials.
