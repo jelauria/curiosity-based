@@ -8,7 +8,7 @@ To download the application, all you need to do is to download the ZIP of the re
 
 ## Materials Needed For the Application
 To use the application, you will need the following:
-1. The **Raw Data** from Microsoft Forms in the form of a .csv file.
+1. The **Raw Data** from Microsoft Forms in an excel sheet (.xlsx).
 2. The **Answer Sheet** in an excel sheet (.xlsx).
 3. The **Preface PDF** -- this is the custom PDF of the pages you have designed to go in front of the user's final results.
 4. The **Endpage PDF** -- this is the custom PDF of the pages you have designed to go after the user's final result (generally, a glossary of definitions).
